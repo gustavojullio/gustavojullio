@@ -39,6 +39,8 @@
 ![JAVA](https://img.shields.io/badge/-JAVA-00758F?style=for-the-badge&logo=java&labelColor=0D1117&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/-MYSQL-00758F?style=for-the-badge&logo=mysql&labelColor=0D1117&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&labelColor=0D1117&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&labelColor=0D1117&logoColor=white)
+
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ad6f&height=120&section=footer"/>
