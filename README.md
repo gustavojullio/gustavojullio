@@ -36,7 +36,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-007BFF?style=for-the-badge&logo=css3&labelColor=0D1117&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&labelColor=0D1117&logoColor=white)
 ![NODEJS](https://img.shields.io/badge/-NODEJS-339933?style=for-the-badge&logo=node.js&labelColor=0D1117&logoColor=white)
-![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&labelColor=0D1117&logoColor=white)
+![JAVA](https://img.shields.io/badge/Java-FF0000?style=for-the-badge&logo=openjdk&labelColor=0D1117&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/-MYSQL-00758F?style=for-the-badge&logo=mysql&labelColor=0D1117&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&labelColor=0D1117&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&labelColor=0D1117&logoColor=white)
