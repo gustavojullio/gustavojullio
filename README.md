@@ -6,7 +6,6 @@
 </div>
 
 <h2>📞 Entre em Contato</h2>
-<p>Você pode entrar em contato comigo para trocar ideias, compartilhar dicas ou fazer perguntas sobre minhas aventuras:</p>
 <div align="center"> 
   <a href="https://www.facebook.com/gustavo.julio.18/" target="_blank"><img src="https://img.shields.io/badge/Facebook-0d8bf0?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/gustavo.julioo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
